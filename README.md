@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Xavier's here:
+
+- Indie creator bringing ideas to life online:
+    - [SubtitleGen](https://subtitlegen.com): AI subtitle generator for your video.
+- 📫 Reach Me [me@xav.im](mailto:me@xav.im)
