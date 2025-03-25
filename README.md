@@ -19,4 +19,5 @@ Xavier's here:
 
 - Indie creator bringing ideas to life online:
     - [SubtitleGen](https://subtitlegen.com): AI subtitle generator for your video.
+    - [Podttr](https://podttr.com): Audio to text transcription & insights.
 - 📫 Reach Me [me@xav.im](mailto:me@xav.im)
