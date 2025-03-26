@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**xavody/xavody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**elliotodyl/elliotodyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Xavier's here:
+Elliot's here:
 
 - Indie creator bringing ideas to life online:
     - [SubtitleGen](https://subtitlegen.com): AI subtitle generator for your video.
