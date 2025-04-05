@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Elliot's here:
 
 - Indie creator bringing ideas to life online:
+    - [Logo1](https://logo1.im): Al Logo Generator.
+    - [Podttr](https://podttr.com): Audio and audio to text transcription & insights.
     - [SubtitleGen](https://subtitlegen.com): AI subtitle generator for your video.
-    - [Podttr](https://podttr.com): Audio to text transcription & insights.
 <!-- - 📫 Reach Me [me@xav.im](mailto:me@xav.im) -->
