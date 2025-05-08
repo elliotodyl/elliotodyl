@@ -20,6 +20,5 @@ Elliot's here:
 - Indie creator bringing ideas to life online:
     - [YouStylize](https://youstylize.com): AI Photo Editor.
     - [QuestionX](https://questionx.app): AI Question Generator.
-    - [Logo1](https://logo1.im): Al Logo Generator.
     - [SubtitleGen](https://subtitlegen.com): AI subtitle generator for your video.
 <!-- - 📫 Reach Me [me@xav.im](mailto:me@xav.im) -->
