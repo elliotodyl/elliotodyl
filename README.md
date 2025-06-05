@@ -20,6 +20,7 @@ Elliot's here:
 - Indie creator bringing ideas to life online:
     - [Dreampik](https://dreampik.art): AI Image Generator.
     - [YouStylize](https://youstylize.com): AI Photo Editor.
+    - [Pixcribe](https://pixcribe.com): AI Image Describer.
     - [QuestionX](https://questionx.app): AI Question Generator.
     - [SubtitleGen](https://subtitlegen.com): AI subtitle generator for your video.
 <!-- - 📫 Reach Me [me@xav.im](mailto:me@xav.im) -->
