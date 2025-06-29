@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Elliot's here:
 
 - Indie creator bringing ideas to life online:
+    - [Unoscribe](https://unoscribe.com):Audio & Video Transcription  
     - [Dreampik](https://dreampik.art): AI Image & Video Creation Platform.
     - [YouStylize](https://youstylize.com): AI Photo Editor.
     - [Pixcribe](https://pixcribe.com): AI Image Describer.
