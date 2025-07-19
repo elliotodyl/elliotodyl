@@ -21,7 +21,10 @@ Elliot's here:
     - [Unoscribe](https://unoscribe.com):Audio & Video Transcription  
     - [Dreampik](https://dreampik.art): AI Image & Video Creation Platform.
     - [YouStylize](https://youstylize.com): AI Photo Editor.
-    - [Pixcribe](https://pixcribe.com): AI Image Describer.
-    <!-- - [QuestionX](https://questionx.app): AI Question Generator. -->
     - [SubtitleGen](https://subtitlegen.com): AI subtitle generator for your video.
+ 
+- Free tools:
+    - [CropImage.cv](https://cropimage.cv): Free online crop image tool.
+    - [Pixcribe](https://pixcribe.com): AI Image Describer.
+
 <!-- - 📫 Reach Me [me@xav.im](mailto:me@xav.im) -->
