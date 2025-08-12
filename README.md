@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 Elliot's here:
 
 - Indie creator bringing ideas to life online:
+    - [FastLipsync](https://fastlipsync.com): Create Realistic Lip-synced Videos with AI.
+    - [Dreampik](https://dreampik.art): AI Image Generation Platform.
     - [Unoscribe](https://unoscribe.com):Audio & Video Transcription  
-    - [Dreampik](https://dreampik.art): AI Image & Video Creation Platform.
-    - [YouStylize](https://youstylize.com): AI Photo Editor.
-    - [SubtitleGen](https://subtitlegen.com): AI subtitle generator for your video.
  
 - Free tools:
-    - [CropImage.cv](https://cropimage.cv): Free online crop image tool.
     - [Pixcribe](https://pixcribe.com): AI Image Describer.
 
 <!-- - 📫 Reach Me [me@xav.im](mailto:me@xav.im) -->
