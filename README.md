@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Elliot's here:
 
 - Indie creator bringing ideas to life online:
+    - [VoiceDesi](https://voicedesi.com): AI Voice Design.
     - [FastLipsync](https://fastlipsync.com): Create Realistic Lip-synced Videos with AI.
     - [Dreampik](https://dreampik.art): AI Image Generation Platform.
     - [Unoscribe](https://unoscribe.com):Audio & Video Transcription  
