@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Elliot's here:
 
 - Indie creator bringing ideas to life online:
+    - [Sentivid](https://sentivid.com): AI Video Generator.  
     - [Editpal](https://editpal.im): AI Image Editor.  
     - [VoiceDesi](https://voicedesi.com): AI Voice Design.
     - [FastLipsync](https://fastlipsync.com): Create Realistic Lip-synced Videos with AI.
